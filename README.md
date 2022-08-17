@@ -1,11 +1,15 @@
 #sobre mim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-suzany0026/suzany0026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+-olá eu sou @suzany
+
+-meu email de contato é suzany.figueiredo@escola.pr.gov.br
+
+-eu estou interessado em aprender novas linguagens
+
+-eu estou aprendendo a programar recentemente a linguagem de java Script e Scratch
+
+-eu estou aprendendo
+-
+
 --->
 ￼
